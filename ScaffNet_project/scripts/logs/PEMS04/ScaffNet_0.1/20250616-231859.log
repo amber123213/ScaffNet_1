@@ -1,4 +1,0 @@
-2025-06-16 23:18:59,506 - Using device: cpu
-2025-06-16 23:20:21,021 - Epoch 001/200 | Time: 80.92s | Train Loss: nan (Pred: 228.0022, Guide: nan) | Val RMSE: 0.0000
-2025-06-16 23:20:21,021 -   Validation RMSE improved. Saving model to logs/PEMS04/ScaffNet_0.1/best_model.pth
-2025-06-16 23:21:47,824 - Epoch 002/200 | Time: 86.80s | Train Loss: nan (Pred: 0.0000, Guide: nan) | Val RMSE: 0.0000
