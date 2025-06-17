@@ -1,0 +1,66 @@
+2025-06-17 07:53:23,699 - Using device: cpu
+2025-06-17 07:54:16,138 - Epoch 001/200 | Time: 51.48s | Train Loss: 488.7577 (Pred: 488.2577, Guide: 100.0000) | Val RMSE: 472.7914
+2025-06-17 07:54:16,138 -   Validation RMSE improved. Saving model to logs/PEMS04/ScaffNet_0.005/best_model.pth
+2025-06-17 07:55:09,825 - Epoch 002/200 | Time: 53.68s | Train Loss: 442.5372 (Pred: 442.0372, Guide: 100.0000) | Val RMSE: 434.5680
+2025-06-17 07:55:09,825 -   Validation RMSE improved. Saving model to logs/PEMS04/ScaffNet_0.005/best_model.pth
+2025-06-17 07:56:06,108 - Epoch 003/200 | Time: 56.28s | Train Loss: 406.4363 (Pred: 405.9363, Guide: 100.0000) | Val RMSE: 401.2991
+2025-06-17 07:56:06,108 -   Validation RMSE improved. Saving model to logs/PEMS04/ScaffNet_0.005/best_model.pth
+2025-06-17 07:57:02,111 - Epoch 004/200 | Time: 56.00s | Train Loss: 372.9772 (Pred: 372.4772, Guide: 100.0000) | Val RMSE: 369.5919
+2025-06-17 07:57:02,111 -   Validation RMSE improved. Saving model to logs/PEMS04/ScaffNet_0.005/best_model.pth
+2025-06-17 07:57:59,320 - Epoch 005/200 | Time: 57.21s | Train Loss: 340.5301 (Pred: 340.0301, Guide: 100.0000) | Val RMSE: 338.7594
+2025-06-17 07:57:59,321 -   Validation RMSE improved. Saving model to logs/PEMS04/ScaffNet_0.005/best_model.pth
+2025-06-17 07:58:55,712 - Epoch 006/200 | Time: 56.39s | Train Loss: 308.6337 (Pred: 308.1337, Guide: 100.0000) | Val RMSE: 308.5784
+2025-06-17 07:58:55,712 -   Validation RMSE improved. Saving model to logs/PEMS04/ScaffNet_0.005/best_model.pth
+2025-06-17 07:59:52,963 - Epoch 007/200 | Time: 57.25s | Train Loss: 277.1432 (Pred: 276.6432, Guide: 100.0000) | Val RMSE: 278.9894
+2025-06-17 07:59:52,963 -   Validation RMSE improved. Saving model to logs/PEMS04/ScaffNet_0.005/best_model.pth
+2025-06-17 08:00:48,117 - Epoch 008/200 | Time: 55.15s | Train Loss: 246.0683 (Pred: 245.5683, Guide: 100.0000) | Val RMSE: 250.0305
+2025-06-17 08:00:48,118 -   Validation RMSE improved. Saving model to logs/PEMS04/ScaffNet_0.005/best_model.pth
+2025-06-17 08:01:45,072 - Epoch 009/200 | Time: 56.95s | Train Loss: 215.5545 (Pred: 215.0545, Guide: 100.0000) | Val RMSE: 221.8271
+2025-06-17 08:01:45,073 -   Validation RMSE improved. Saving model to logs/PEMS04/ScaffNet_0.005/best_model.pth
+2025-06-17 08:02:40,184 - Epoch 010/200 | Time: 55.11s | Train Loss: 185.9832 (Pred: 185.4832, Guide: 100.0000) | Val RMSE: 194.6161
+2025-06-17 08:02:40,184 -   Validation RMSE improved. Saving model to logs/PEMS04/ScaffNet_0.005/best_model.pth
+2025-06-17 08:03:36,526 - Epoch 011/200 | Time: 56.34s | Train Loss: 157.9979 (Pred: 157.4979, Guide: 100.0000) | Val RMSE: 168.8040
+2025-06-17 08:03:36,527 -   Validation RMSE improved. Saving model to logs/PEMS04/ScaffNet_0.005/best_model.pth
+2025-06-17 08:04:33,898 - Epoch 012/200 | Time: 57.37s | Train Loss: 132.5430 (Pred: 132.0430, Guide: 100.0000) | Val RMSE: 145.0777
+2025-06-17 08:04:33,898 -   Validation RMSE improved. Saving model to logs/PEMS04/ScaffNet_0.005/best_model.pth
+2025-06-17 08:05:30,334 - Epoch 013/200 | Time: 56.44s | Train Loss: 110.8280 (Pred: 110.3280, Guide: 100.0000) | Val RMSE: 124.5806
+2025-06-17 08:05:30,335 -   Validation RMSE improved. Saving model to logs/PEMS04/ScaffNet_0.005/best_model.pth
+2025-06-17 08:06:26,084 - Epoch 014/200 | Time: 55.75s | Train Loss: 94.1942 (Pred: 93.6942, Guide: 100.0000) | Val RMSE: 109.0979
+2025-06-17 08:06:26,084 -   Validation RMSE improved. Saving model to logs/PEMS04/ScaffNet_0.005/best_model.pth
+2025-06-17 08:07:22,361 - Epoch 015/200 | Time: 56.28s | Train Loss: 83.9085 (Pred: 83.4085, Guide: 100.0000) | Val RMSE: 101.2163
+2025-06-17 08:07:22,361 -   Validation RMSE improved. Saving model to logs/PEMS04/ScaffNet_0.005/best_model.pth
+2025-06-17 08:08:18,947 - Epoch 016/200 | Time: 56.59s | Train Loss: 80.6920 (Pred: 80.1920, Guide: 100.0000) | Val RMSE: 100.1856
+2025-06-17 08:08:18,947 -   Validation RMSE improved. Saving model to logs/PEMS04/ScaffNet_0.005/best_model.pth
+2025-06-17 08:09:13,948 - Epoch 017/200 | Time: 55.00s | Train Loss: 80.3902 (Pred: 79.8902, Guide: 100.0000) | Val RMSE: 100.1238
+2025-06-17 08:09:13,949 -   Validation RMSE improved. Saving model to logs/PEMS04/ScaffNet_0.005/best_model.pth
+2025-06-17 08:10:09,811 - Epoch 018/200 | Time: 55.86s | Train Loss: 80.3734 (Pred: 79.8734, Guide: 100.0000) | Val RMSE: 100.1220
+2025-06-17 08:10:09,811 -   Validation RMSE improved. Saving model to logs/PEMS04/ScaffNet_0.005/best_model.pth
+2025-06-17 08:11:05,165 - Epoch 019/200 | Time: 55.35s | Train Loss: 80.3738 (Pred: 79.8738, Guide: 100.0000) | Val RMSE: 100.1222
+2025-06-17 08:12:00,348 - Epoch 020/200 | Time: 55.18s | Train Loss: 80.3714 (Pred: 79.8714, Guide: 100.0000) | Val RMSE: 100.1222
+2025-06-17 08:12:52,445 - Epoch 021/200 | Time: 52.10s | Train Loss: 80.3726 (Pred: 79.8726, Guide: 100.0000) | Val RMSE: 100.1223
+2025-06-17 08:13:48,098 - Epoch 022/200 | Time: 55.65s | Train Loss: 80.3735 (Pred: 79.8735, Guide: 100.0000) | Val RMSE: 100.1223
+2025-06-17 08:14:41,012 - Epoch 023/200 | Time: 52.91s | Train Loss: 80.3712 (Pred: 79.8712, Guide: 100.0000) | Val RMSE: 100.1223
+2025-06-17 08:15:33,596 - Epoch 024/200 | Time: 52.58s | Train Loss: 80.3720 (Pred: 79.8720, Guide: 100.0000) | Val RMSE: 100.1223
+2025-06-17 08:16:26,383 - Epoch 025/200 | Time: 52.79s | Train Loss: 80.3711 (Pred: 79.8711, Guide: 100.0000) | Val RMSE: 100.1223
+2025-06-17 08:17:18,515 - Epoch 026/200 | Time: 52.13s | Train Loss: 80.3740 (Pred: 79.8740, Guide: 100.0000) | Val RMSE: 100.1223
+2025-06-17 08:18:11,627 - Epoch 027/200 | Time: 53.11s | Train Loss: 80.3713 (Pred: 79.8713, Guide: 100.0000) | Val RMSE: 100.1223
+2025-06-17 08:19:07,796 - Epoch 028/200 | Time: 56.17s | Train Loss: 80.3730 (Pred: 79.8730, Guide: 100.0000) | Val RMSE: 100.1223
+2025-06-17 08:20:02,325 - Epoch 029/200 | Time: 54.53s | Train Loss: 80.3714 (Pred: 79.8714, Guide: 100.0000) | Val RMSE: 100.1223
+2025-06-17 08:20:55,350 - Epoch 030/200 | Time: 53.03s | Train Loss: 80.3727 (Pred: 79.8727, Guide: 100.0000) | Val RMSE: 100.1223
+2025-06-17 08:21:49,405 - Epoch 031/200 | Time: 54.05s | Train Loss: 80.3732 (Pred: 79.8732, Guide: 100.0000) | Val RMSE: 100.1223
+2025-06-17 08:22:44,706 - Epoch 032/200 | Time: 55.30s | Train Loss: 80.3726 (Pred: 79.8726, Guide: 100.0000) | Val RMSE: 100.1222
+2025-06-17 08:23:38,327 - Epoch 033/200 | Time: 53.62s | Train Loss: 80.3736 (Pred: 79.8736, Guide: 100.0000) | Val RMSE: 100.1223
+2025-06-17 08:24:29,857 - Epoch 034/200 | Time: 51.53s | Train Loss: 80.3729 (Pred: 79.8729, Guide: 100.0000) | Val RMSE: 100.1224
+2025-06-17 08:25:24,205 - Epoch 035/200 | Time: 54.35s | Train Loss: 80.3714 (Pred: 79.8714, Guide: 100.0000) | Val RMSE: 100.1222
+2025-06-17 08:26:15,781 - Epoch 036/200 | Time: 51.58s | Train Loss: 80.3710 (Pred: 79.8710, Guide: 100.0000) | Val RMSE: 100.1223
+2025-06-17 08:27:07,001 - Epoch 037/200 | Time: 51.22s | Train Loss: 80.3726 (Pred: 79.8726, Guide: 100.0000) | Val RMSE: 100.1223
+2025-06-17 08:27:59,377 - Epoch 038/200 | Time: 52.38s | Train Loss: 80.3717 (Pred: 79.8717, Guide: 100.0000) | Val RMSE: 100.1223
+2025-06-17 08:27:59,377 - Early stopping triggered.
+2025-06-17 08:27:59,377 - 
+Training finished. Evaluating on test set...
+2025-06-17 08:28:08,107 - ------ Final Test Results ------
+2025-06-17 08:28:08,108 -   Average --> MAE: 79.8551, MAPE: 15.6368, RMSE: 100.0721
+2025-06-17 08:28:08,108 -   Horizon 03 --> MAE: 79.8521, MAPE: 15.6361, RMSE: 100.0683
+2025-06-17 08:28:08,108 -   Horizon 06 --> MAE: 79.8530, MAPE: 15.6343, RMSE: 100.0706
+2025-06-17 08:28:08,108 -   Horizon 12 --> MAE: 79.8612, MAPE: 15.6360, RMSE: 100.0777
+2025-06-17 08:28:08,108 - -----------------------------

@@ -1,0 +1,19 @@
+# 文件路径: configs/scaffnet_pems04_10.0.yaml
+dataset: 'PEMS04'
+data_dir: '../data/PEMS04'
+num_nodes: 307
+input_dim: 1
+output_dim: 1
+rnn_units: 64
+embed_dim: 10
+seq_length: 12
+horizon: 12
+batch_size: 64
+test_batch_size: 64
+epochs: 200
+patience: 20
+learning_rate: 0.001
+lambda_guidance: 10.0
+lr_decay_rate: 0.7
+lr_decay_step: 20
+model_name: 'ScaffNet_10.0' 
