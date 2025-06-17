@@ -1,6 +1,0 @@
-2025-06-17 09:04:01,530 - Using device: cpu
-2025-06-17 09:04:02,149 - 尝试加载邻接矩阵: /Users/wangguangxin/Downloads/ScaffNet/ScaffNet_project/data/PEMS04/adj_mx.pkl
-2025-06-17 09:04:02,149 - 加载邻接矩阵: /Users/wangguangxin/Downloads/ScaffNet/ScaffNet_project/data/PEMS04/adj_mx.pkl
-2025-06-17 09:04:02,150 - 邻接矩阵形状: (307, 307)
-2025-06-17 09:05:33,711 - Epoch 001/200 | Time: 91.10s | Train Loss: 31590.0400 (Pred: 31589.0400, Guide: 100.0000) | Val RMSE: 41264.9296
-2025-06-17 09:05:33,712 -   Validation RMSE improved. Saving model to logs/PEMS04/ScaffNet/best_model.pth
